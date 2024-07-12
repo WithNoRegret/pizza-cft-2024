@@ -1,5 +1,6 @@
 export const ProfilePage = () => {
+
     return (
-        <div>ProfilePage</div>
+        <>This is Profile Page</>
     )
-  }
+}

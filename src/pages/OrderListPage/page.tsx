@@ -1,5 +1,6 @@
 export const OrderListPage = () => {
+
     return (
-   <div>OrderListPage</div>
+        <>This is Order List Page</>
     )
 }
