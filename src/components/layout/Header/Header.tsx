@@ -1,6 +1,6 @@
 import { Link } from '@tanstack/react-router'
 
-import Logo from '../../../assets/images/logo.svg'
+import Logo from '@assets/images/logo.svg'
 
 export const Header = () => {
   return (
