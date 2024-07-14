@@ -14,7 +14,7 @@ export const IndexPage = () => {
         });
     }, [])
     return (
-        <div className="pizza__list">
+        <div className="container pizza__list">
           {pizzas.map(pizza =>
           <div key={pizza.id} className="pizza__card">
             <img src={BASE_URL + pizza.img} alt={pizza.name} height={100} width={100} />
